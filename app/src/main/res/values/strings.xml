@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MayTheFourth</string>
+    <string name="item_image_holder">dummy_image</string>
+    <string name="holder">Obi Wan Kenobi</string>
+    <string name="name">Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="height">Height:</string>
+</resources>
